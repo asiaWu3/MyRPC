@@ -16,6 +16,7 @@
         <module>MyRPC-05</module>
         <module>MyRPC-06</module>
         <module>MyRPC-07</module>
+        <module>MyRPC-08</module>
     </modules>
 
     <properties>
